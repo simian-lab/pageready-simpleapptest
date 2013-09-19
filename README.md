@@ -1,14 +1,7 @@
-#AngularJS - SEO Article
+#Simple App - AngularJS page ready
 
-This is a helper repository which is used as demonstration code for the **AngularJS and SEO** article found on yearofmoo.com
+This is a helper repository which is used as demonstration code for the **Knowing when your AngularJS page is actually ready** article found on blog.simian.co.
 
-## Blog Article
-Click the link below to view the article:
-
-http://www.yearofmoo.com/2012/11/angularjs-and-seo.html
-
-
-## Demo
-The Application can be demoed via
+Example taken (stolen) from this awesome article:
 
 http://yearofmoo-articles.github.com/angularjs-seo-article/
